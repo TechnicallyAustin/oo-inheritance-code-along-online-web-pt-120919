@@ -6,4 +6,7 @@ class Car < Vehicle
     Vehicle.new(wheel_size,number)
   end
   
+  def go 
+    
+  
 end
