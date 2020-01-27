@@ -6,3 +6,4 @@ class Car < Vehicle
     Vehicle.new(wheel_size,number)
   end
   
+end
