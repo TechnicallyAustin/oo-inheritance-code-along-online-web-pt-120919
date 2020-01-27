@@ -5,6 +5,9 @@ class Vehicle
     @number = number 
   end
   
+  def go 
+    "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
+  end
   
 
 end
